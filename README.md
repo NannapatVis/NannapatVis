@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @NannapatVis
 - 👀 I’m interested in website app in HTML CSS AND PHP
-- I'm learning flutter ... 
+- I'm learning flutter
 - 🌱 I’m currently learning in PSU HATYAI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 🙉 The Monkeytype is https://monkeytype.com/profile/lvismo 
 
 <!---
